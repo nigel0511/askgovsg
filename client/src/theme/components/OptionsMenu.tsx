@@ -69,7 +69,7 @@ export const OptionsMenu: ComponentMultiStyleConfig = {
       px: 8,
       textAlign: 'left',
     },
-    accordionInput: {
+    accordionEditableInput: {
       backgroundColor: 'white',
       color: 'neutral.900',
       w: '100%',
